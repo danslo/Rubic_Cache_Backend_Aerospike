@@ -1,0 +1,20 @@
+{
+    "name": "danslo/rubic-cache-backend-aerospike",
+    "license": "apache",
+    "type": "magento-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Daniel Sloof"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ]
+}
